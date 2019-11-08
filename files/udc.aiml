@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
+
   <category>
     <pattern>êµ­ë´ ì¶ì¥ ì¤ ì£¼ì°¨ë¹ê° ë°ìíì´ì</pattern>
     <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
@@ -10,12 +11,271 @@
     <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
   </category>
   
-    <category>
-    <pattern>êµ­ë´ ì¶ì¥ ì£¼ì°¨</pattern>
-    <template>í´ì¸ ì¶ì¥ ê° ì¬ì©ë ì£¼ì°¨ë£(ê³µí­ì£¼ì°¨ë£ í¬í¨)ì ê²½ì° ì¶ì¥ë¹ ê·ì  ì ì ì°ì´ ë¶ê°ë¥í©ëë¤. ì¶ê° ë¬¸ìì¬í­ì ì´ë¬´ì§ìê·¸ë£¹ ì¶ì¥ë¹ ë´ë¹ììê² ë¬¸ìë°ëëë¤.</template>
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ì£¼ì°¨ë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
   </category>
   
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ì£¼ì°¨ë£ê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
   
-</aiml>
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ì£¼ì°¨ë¹ê° ë°ìíì´ì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
 
+    <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ì£¼ì°¨ë£ê° ë°ìíì´ì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+
+    <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ì£¼ì°¨ë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ì£¼ì°¨ë£ê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì£¼ì°¨</pattern>
+    <template>êµ­ë´ ì¶ì¥ ê° ì¬ì©ë ì£¼ì°¨ë£ì ê²½ì° ë°°ì°¨ë¥¼ ë°ê±°ë ìì°¨ì¬ì©ì ì²­ì(fr. ì´ë¬´ì§ìê·¸ë£¹)ë¥¼ ì¬ì ì ì¶í ê²½ì°ìë§ ì ì°ì´ ê°ë¥í©ëë¤.</template>
+  </category>
+
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ì£¼ì°¨ë¹ê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+  
+    <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ì£¼ì°¨ë£ê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ì£¼ì°¨ë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ì£¼ì°¨ë£ê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ì£¼ì°¨ë¹ê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+
+    <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ì£¼ì°¨ë£ê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+
+    <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ì£¼ì°¨ë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ì£¼ì°¨ë£ê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ì£¼ì°¨</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì£¼ì°¨</pattern>
+    <template>í´ì¸ ì¶ì¥ ê° ì¬ì©ë ì£¼ì°¨ë£(ê³µí­ì£¼ì°¨ë£ í¬í¨)ì ê²½ì° ì¶ì¥ë¹ ê·ì  ì ì ì°ì´ ë¶ê°ë¥í©ëë¤. ì¶ê° ë¬¸ìì¬í­ì ì´ë¬´ì§ìê·¸ë£¹ ì¶ì¥ë¹ ë´ë¹ììê² ë¬¸ìë°ëëë¤.</template>
+  </category>
+
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ìë¹ê° ë°ìíì´ì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+    <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ìëê° ë°ìíì´ì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ìë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ìëê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ìë¹ê° ë°ìíì´ì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+
+    <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ìëê° ë°ìíì´ì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+
+    <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ìë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ì ìëê° ë°ìíìµëë¤</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ìë</pattern>
+    <template>êµ­ë´ ì¶ì¥ ê° ìëë ì¸ì°, ììì¬ìì¥ êµ¬ì±ìì ê²½ì° ìì¹¨/ì ì¬/ì ë ê° 10,000ìì© ì§ìì´ ëë©°, ìì¸ì¬ìì¥ êµ¬ì±ìì ê²½ì° ìì¹¨/ì ë ê° 10,000ìì© ì§ìì´ ë©ëë¤. (í´ì¼ì ê²½ì° ì¸ì°, ììì¬ìì¥ê³¼ ëì¼)</template>
+  </category>  
+
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ìë¹ê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+    <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ìëê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ìë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ìëê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ìë¹ê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+
+    <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ìëê° ë°ìíì´ì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+
+    <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ìë¹ê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ì ìëê° ë°ìíìµëë¤</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ìë</pattern>
+    <template>í´ì¸ ì¶ì¥ ê° ì¬ì©ë ìëë ë³ëë¡ ì§ê¸ ë° ì¶ì¥ë¹ë¡ ì ì°ì´ ëì§ ììµëë¤. (ì¼ë³ë¡ ì§ê¸ëë ì¼ë¹ì í¬í¨)</template>
+  </category>  
+
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ìë°ë¹ íëê° ì¼ë§ìì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+    <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ í¸íë¹ì© íëê° ì¼ë§ìì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ ìë°ë¹ íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ì¤ í¸íë¹ì© íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ë©´ ìë°ë¹ íëê° ì¼ë§ìì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+    <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ë©´ í¸íë¹ì© íëê° ì¼ë§ìì</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ë©´ ìë°ë¹ íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ê°ë©´ í¸íë¹ì© íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>êµ­ë´ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>êµ­ë´ ì¶ì¥ ìë°ë¹</pattern>
+    <template>êµ­ë´ ì¶ì¥ ê° ìë°ë¹ íëë íì¥ ì´í 100,000ììëë¤. íëì´ê³¼ ì ì²ë¦¬ ê´ë ¨ ë¬¸ìë e-Hub ì¶ì¥ë¹ ì§ê¸ìë´ or ì´ë¬´ì§ìê·¸ë£¹ì ë¬¸ìë°ëëë¤.</template>
+  </category> 
+
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ìë°ë¹ íëê° ì¼ë§ìì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+    <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ í¸íë¹ì© íëê° ì¼ë§ìì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ ìë°ë¹ íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ì¤ í¸íë¹ì© íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ë©´ ìë°ë¹ íëê° ì¼ë§ìì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ë©´ í¸íë¹ì© íëê° ì¼ë§ìì</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ë©´ ìë°ë¹ íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ê°ë©´ í¸íë¹ì© íëê° ì¼ë§ìëê¹</pattern>
+    <template><srai>í´ì¸ ì¶ì¥ ìë°ë¹</srai></template>
+  </category>
+  
+  <category>
+    <pattern>í´ì¸ ì¶ì¥ ìë°ë¹</pattern>
+    <template>í´ì¸ ì¶ì¥ ê° ìë°ë¹ íëë íì¥ ì´í USD ê¸°ì¤ $180 ìëë¤. íëì´ê³¼ ì ì²ë¦¬ ê´ë ¨ Processë e-Hub ì¶ì¥ë¹ ì§ê¸ìë´ or ì´ë¬´ì§ìê·¸ë£¹ì ë¬¸ìë°ëëë¤.</template>
+  </category> 
+
+
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
 
